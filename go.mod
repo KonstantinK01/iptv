@@ -1,10 +1,10 @@
 module github.com/KonstantinK01/iptv
 
-go 1.27.2
+go 1.26.0
 
 require (
-	github.com/jackc/pgx/v5 v5.11.0
-	golang.org/x/crypto v0.58.0
+	github.com/jackc/pgx/v5 v5.7.1
+	golang.org/x/crypto v0.28.0
 )
 
 require (
